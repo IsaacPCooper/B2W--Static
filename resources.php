@@ -67,7 +67,7 @@
                 <ul class="nav navbar-nav navbar-right">
                   <li><a href="index.php">Home</a></li>
                   <li><a href="blog.php">Blog</a></li>
-                  <li class="active"><a href="resources.html">Resources</a></li>
+                  <li class="active"><a href="resources.php">Resources</a></li>
                   <li><a href="contact.php">Contact</a></li>
                 </ul>
               </div>
