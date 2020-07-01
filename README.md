@@ -11,3 +11,6 @@ A hosted Static Site to later be turned into a wordpress theme.
 * [Visual Studio Code](https://code.visualstudio.com/) - Industry Standard IDE.
 * [Git](https://git-scm.com/) - Version Control
 * [BootStrap](https://getbootstrap.com/) - Framework
+
+## Lecture Followed:
+* [Bootstrap-To-Wordpress by Brad Hussey](https://www.udemy.com/course/bootstrap-to-wordpress)
