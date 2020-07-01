@@ -1,5 +1,5 @@
 # Bootstrap 2 Wordpress Static Site
-<img src="https://miro.medium.com/max/2100/1*c55e7yGt01fROlAS9t7C_Q.png" height="124" width="248" alt="JsPDF Logo"/>
+<img src="https://www.drupal.org/files/project-images/bootstrap-stack.png" height="124" width="248" alt="BootStrap Logo"/>
 
 ## Brief
 A hosted Static Site to later be turned into a wordpress theme.
